@@ -7,7 +7,7 @@
 
 <h1 align="center">UltraChimps</h1>
 
-This mod adds UltraChimps
+This mod add UltraChimps
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/UltraChimps/total?label=Total%20Dowloads"></h1>
 
